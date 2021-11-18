@@ -1,0 +1,9 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="EditorActions">
+        <abbreviation name="Navigate back / forward" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
