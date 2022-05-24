@@ -1,14 +1,14 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern="Dockerfile_mysql" type="PLAIN_TEXT" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="Dockerfile_Mysql" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile_mysql" type="PLAIN_TEXT" />
       <mapping pattern="py_pwm_bonus" type="XML" />
       <mapping pattern="py_pwm_bonus_det" type="XML" />
-      <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
 </application>
