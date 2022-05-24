@@ -9,5 +9,6 @@
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.java</mask>
+    <mask>*.xhtml</mask>
   </component>
 </application>
