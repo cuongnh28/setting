@@ -1,20 +1,20 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="a918c1a0-3d64-4eb1-9f64-f9525557f8c6" name="PHP" home="C:\xampp\php\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="d8876567-52c9-44a7-b60c-fa3c9f6d7674" name="PHP" home="C:\xampp\php\php.exe" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP">
-        <phpinfo binary_type="PHP" php_cgi="C:\xampp\php\php-cgi.exe" php_cli="C:\xampp\php\php.exe" path_separator=";" version="7.4.10">
+        <phpinfo binary_type="PHP" php_cgi="C:\xampp\php\php-cgi.exe" php_cli="C:\xampp\php\php.exe" path_separator=";" version="7.4.29">
           <additional_php_ini />
           <configuration_file>C:\xampp\php\php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="include_path" value="C:\xampp\php\PEAR" />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.8.1">
+            <debugger_info debugger="xdebug" debugger_version="3.1.5">
               <debug_extensions />
             </debugger_info>
           </debuggers>
