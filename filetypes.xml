@@ -6,6 +6,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".evn" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
+      <mapping ext="readme" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping pattern=".env" approved="true" type="PLAIN_TEXT" />
