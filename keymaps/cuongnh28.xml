@@ -1,0 +1,33 @@
+<keymap version="1" name="cuongnh28" parent="$default">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <mouse-shortcut keystroke="alt button142" />
+  </action>
+  <action id="ChangeSplitOrientation">
+    <keyboard-shortcut first-keystroke="alt s" second-keystroke="s" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+    <mouse-shortcut keystroke="button5" />
+    <mouse-shortcut keystroke="alt button143" />
+  </action>
+  <action id="MoveTabDown">
+    <keyboard-shortcut first-keystroke="alt s" second-keystroke="down" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="alt s" second-keystroke="right" />
+  </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="alt s" second-keystroke="alt down" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="alt s" second-keystroke="alt right" />
+  </action>
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="alt s" second-keystroke="u" />
+  </action>
+  <action id="UnsplitAll">
+    <keyboard-shortcut first-keystroke="alt s" second-keystroke="home" />
+  </action>
+</keymap>
