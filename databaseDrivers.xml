@@ -1,7 +1,13 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="201">
     <driver id="cassandra">
+      <artifact id="Cassandra" name="Cassandra" use="true" version="1.4" />
       <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
+      <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="clickhouse">
       <option name="auto-sync" value="true" />
